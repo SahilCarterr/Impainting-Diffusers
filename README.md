@@ -1,4 +1,4 @@
-## Image Style and Upgrade
+## Styling and Upgrade Features in Image
 This enhance versions of the original images. Each image is accompanied by a brief description of the enhancement techniques applied and the purpose behind the enhancement process.
 ### Image Generation
 Image is Generated using Stable Diffuser XL
